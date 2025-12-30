@@ -1,0 +1,4 @@
+1. Exploratory Data Analysis (EDA)
+    - Dataset source: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+    - Clean data, no sign of nulls or "unknown" symbols.
+    - Pearson Correlation Matrix: for result of whether or not a person has heart disease, there is high correlation between the result versus Age, resting blood pressure [mm Hg] (RestingBP), fasting blood sugar [1: if FastingBS > 120 mg/dl, 0: otherwise] (FastingBS) and how much the ST segment drops during exercise compared to rest (OldPeak)
